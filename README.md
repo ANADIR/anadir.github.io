@@ -6,18 +6,15 @@ This app can be very useful to analyze and equalize the audio response of a hall
 
 There are above 20 different spectrum graph types for running your audio analysis. Here is a short explanation about few of them:
 
-## Spectrum: This Visualization view renders a visualization of the simple one-dimensional spectrum (using a mean-square amplitude scale) of the music.
-## LinearOAS: This Visualization that shows an amplitude vs. exponential-frequency spectrum of the audio waveform. The horizontal axis covers a total of 6 octaves.
-## EllipticalOAS: This visualization generates the same FFT spectral information and displays it as a series of concentric ellipses instead of as rows in a Cartesian grid. 
-## Cymbal:  This visualization is inspired by contemplating the vibrational patterns of a cymbal.
+## Spectrum 
+This Visualization view renders a visualization of the simple one-dimensional spectrum (using a mean-square amplitude scale) of the music.
+## LinearOAS 
+This Visualization that shows an amplitude vs. exponential-frequency spectrum of the audio waveform. The horizontal axis covers a total of 6 octaves.
+## EllipticalOAS
+This visualization generates the same FFT spectral information and displays it as a series of concentric ellipses instead of as rows in a Cartesian grid. 
+## Cymbal
+This visualization is inspired by contemplating the vibrational patterns of a cymbal.
 OutOfTheRabbitHole:  This visualization renders the time-history of the music's spectrum across a sequence of circles.
-
-Features included: 
-### Play and Pause button for audio files.
-### Enable mic for real time audio analysis.
-### Peak enhance and algorithm setup/
-### Visualization gain at the treble.
-### Dark and light mode.
 
 ## Play / Pause 
 When clicked it stops the music playback and freezes the visualization display. When clicked again, the music playback and visual display will continue.
